@@ -9,7 +9,9 @@ Front-end Apps to work with this Node.js Server:
 - [Vue Client](https://bezkoder.com/vue-axios-file-upload/) / [Vuetify Client](https://bezkoder.com/vuetify-file-upload/)
 
 - [React Client](https://bezkoder.com/react-file-upload-axios/) / [React Hooks Client](https://bezkoder.com/react-hooks-file-upload/)
-<!-- - [Material UI Client](https://bezkoder.com/material-ui-file-upload/)-->
+
+- [Material UI Client](https://bezkoder.com/material-ui-file-upload/)
+
 More Practice:
 > [Node.js: Upload/Import Excel file data into Database](https://bezkoder.com/node-js-upload-excel-file-database/)
 
